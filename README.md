@@ -21,4 +21,4 @@ My name is Edinson, I am a father, a veteran, and a self-taught programmer. I ga
 - Military Service
 
 ## 🗣 Contact Information 🗣
-- [LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub](https://github.com/official-nosnid3/)
+[LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub](https://github.com/official-nosnid3/)

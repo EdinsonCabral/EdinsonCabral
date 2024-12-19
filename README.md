@@ -10,7 +10,7 @@ My name is Edinson, I am a father, a veteran, and a self-taught programmer. I ga
 ## 🛠 Projects 🛠
 - Currently developing a gamified to-do manager using Windows Presentation Foundation
 
-##🔋 Skills 🔋
+## 🔋 Skills 🔋
 - **Languages**: Python | C# | Javascript | Transact-SQL
 - **Frameworks**: .NET Framework | Windows Presentation Foundation (WPF) | WinForms | .NET MAUI
 - **Tools**: Visual Studio | Visual Studio Code | GitHub | GitHub Copilot | Git

@@ -8,7 +8,8 @@ My name is Edinson, I am a father, a veteran, and a self-taught programmer. I ga
 - Why is it worth considering joining the US Army?
 
 ## 🛠 Projects 🛠
-- Gamified To-do Manager using Windows Presentation Foundation [GitHub Link](https://github.com/nosnid3-portfolio/ToDoManager)
+- 🗔 Gamified To-do Manager using Windows Presentation Foundation [GitHub Link](https://github.com/nosnid3-portfolio/ToDoManager)
+- 🎮 Endless Runner Game [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
 
 ## 🔋 Skills 🔋
 - **Languages**: Python | C# | Javascript | Transact-SQL

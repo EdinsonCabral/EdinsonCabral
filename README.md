@@ -20,4 +20,4 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 - Military Service
 
 ## 🗣 Contact Information 🗣
-[LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub](https://github.com/official-nosnid3/)
+[LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub Profile](https://github.com/official-nosnid3/) | [GitHub Portfolio](https://github.com/orgs/nosnid3-portfolio/teams)

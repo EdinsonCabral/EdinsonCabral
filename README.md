@@ -1,11 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 About Me 👋
-My name is Edinson, I am a father, a veteran, and a self-taught programmer. I gain a lot of motivation to code from a passionate hobby of game development, and a desire to succeed as a Software Engineer.
-
-## 🗨 Ask Me About 🗨 
-- Why am I a worthy candidate for hire?
-- Why is it worth considering joining the US Army?
+My name is Edinson, I am a father, a veteran, and a avid programmer. I gain a lot of motivation to code from a passionate hobby of game development, and a desire to succeed as a Software Engineer.
 
 ## 🛠 Projects 🛠
 - 🗔 Gamified To-do Manager using Windows Presentation Foundation [GitHub Link](https://github.com/nosnid3-portfolio/ToDoManager)

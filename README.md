@@ -7,7 +7,7 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 
 ## 🛠 Projects 🛠
 - 🗔 Gamified To-do Manager using Windows Presentation Foundation [GitHub Link](https://github.com/nosnid3-portfolio/ToDoManager)
-- 🎮 Endless Runner Shooting Game using Godot game engine [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
+- 🎮 Endless Runner Shooting Game using the Godot game engine [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
 
 ## 🔋 Skills 🔋
 - **Languages**: Python | C# | Javascript | Transact-SQL

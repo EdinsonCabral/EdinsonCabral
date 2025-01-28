@@ -11,12 +11,16 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 
 ## 🔋 Skills 🔋
 - **Languages**: Python | C# | Javascript | Transact-SQL
-- **Frameworks**: .NET Framework | Windows Presentation Foundation (WPF) | WinForms | .NET MAUI
-- **Tools**: Visual Studio | Visual Studio Code | GitHub | GitHub Copilot | Git
-- **Technologies**: Microsoft Azure | Data Structures | Object-Oriented Programming (OOP)
+- **Frameworks**: .NET Framework | Windows Presentation Foundation (WPF) | .NET MAUI | Microsoft Blazor
+- **Tools**: Visual Studio | GitHub | Git
+- **Technologies**: Microsoft Azure
 
 ## 🎓 Achievements 🎓
 - Microsoft Software & Systems Academy (MSSA) Cloud Application Development
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Fundamentals
+- Foundational C# with Microsoft
 - Military Service
 
 ## 🗣 Contact Information 🗣

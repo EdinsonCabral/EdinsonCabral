@@ -11,7 +11,7 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 
 ## 🔋 Skills 🔋
 - **Languages**: Python | C# | Javascript | Transact-SQL
-- **Frameworks**: .NET Framework | Windows Presentation Foundation (WPF) | .NET MAUI | Microsoft Blazor
+- **Frameworks**: .NET | .NET MAUI | Microsoft Blazor | Windows Presentation Foundation (WPF)
 - **Tools**: Visual Studio | GitHub | Git
 - **Technologies**: Microsoft Azure
 

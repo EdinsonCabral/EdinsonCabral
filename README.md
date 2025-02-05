@@ -16,12 +16,12 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 - **Technologies**: Microsoft Azure
 
 ## 🎓 Achievements 🎓
-- Microsoft Software & Systems Academy (MSSA) Cloud Application Development
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Azure Fundamentals
-- Foundational C# with Microsoft
-- Military Service
+- Microsoft Software & Systems Academy (MSSA) Cloud Application Development (Nov. 2024 -- Present)
+- Microsoft Certified: Azure Developer Associate (In progress)
+- Microsoft Certified: Azure AI Fundamentals (In progress)
+- Microsoft Certified: Azure Fundamentals (Feb. 2025)
+- Foundational C# with Microsoft (Feb. 2025)
+- Military Service (Oct. 2015 -- Present)
 
 ## 🗣 Contact Information 🗣
 [LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub Profile](https://github.com/official-nosnid3/) | [GitHub Portfolio](https://github.com/orgs/nosnid3-portfolio/teams)

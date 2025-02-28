@@ -10,10 +10,10 @@ Here's a short list of my interests: Coding, AI technologies, Game Development, 
 - 🎮 Endless Runner Shooting Game using the Godot game engine [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
 
 ## 🔋 Skills 🔋
-- **Languages**: Python | C# | JavaScript | Transact-SQL | XAML | HTML | CSS | VBA
-- **Frameworks**: .NET | .NET MAUI (Multi-platform App UI) | Microsoft Blazor Development | WPF
-- **Tools**: Visual Studio | GitHub | Git | Microsoft Office Suite
-- **Technologies**: Microsoft Azure
+- **Languages**: Python · C# · Java · SQL · VBA · HTML · CSS
+- **Platforms & Frameworks**:  Azure · Docker · .NET MAUI · WPF · ASP.NET Core · Entity Framework
+- **Tools & Scripting**:  Git/Github · Terraform · Kubernetes · Jenkins · Bash/Powershell · Atlassian Tool Suite
+- **Concepts & Methodologies**:  Agile · Scrum · Design Patterns · OOP · CI/CD · MVVM
 
 ## 🎓 Achievements 🎓
 - Microsoft Software & Systems Academy (MSSA) Cloud Application Development (Nov. 2024 -- Present)

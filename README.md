@@ -10,18 +10,16 @@ Interests: Coding, AI technologies, game development, robotics and electronics, 
 - 🎮 Endless Runner Shooting Game using the Godot game engine [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
 
 ## 🔋 Skills 🔋
-- **Languages**: Python · C# · Java · SQL · VBA · HTML · CSS
-- **Platforms & Frameworks**:  Azure · Docker · .NET MAUI · WPF · ASP.NET Core · Entity Framework
-- **Tools & Scripting**:  Git/Github · Terraform · Kubernetes · Jenkins · Bash/Powershell · Atlassian Tool Suite
+- **Languages**: Python · C# · SQL · VBA · HTML · CSS
+- **Platforms & Frameworks**:  Azure · .NET MAUI · WPF · ASP.NET Core · Entity Framework
+- **Tools & Scripting**:  Git/Github · Bash/Powershell · Atlassian Tool Suite
 - **Concepts & Methodologies**:  Agile · Scrum · Design Patterns · OOP · CI/CD · MVVM
 
 ## 🎓 Achievements 🎓
-- Microsoft Software & Systems Academy (MSSA) Cloud Application Development (Nov. 2024 -- Present)
-- Microsoft Certified: Azure Developer Associate (In progress)
-- Microsoft Certified: Azure AI Fundamentals (In progress)
+- Microsoft Software & Systems Academy (MSSA) Cloud Application Development (Nov. 2024 -- Mar. 2025)
 - Microsoft Certified: Azure Fundamentals (Feb. 2025)
 - Foundational C# with Microsoft (Feb. 2025)
-- Military Service (Oct. 2015 -- Present)
+- Military Service (Oct. 2015 -- Apr. 2025)
 
 ## 🗣 Contact Information 🗣
 [LinkedIn](https://www.linkedin.com/in/edinson-cabral/) | [GitHub Profile](https://github.com/EdinsonCabral/) | [GitHub Portfolio](https://github.com/orgs/nosnid3-portfolio/teams)

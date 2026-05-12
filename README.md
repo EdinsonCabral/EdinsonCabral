@@ -1,13 +1,12 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 About Me 👋
-My name is Edinson, I am a father, a veteran, and a avid programmer. I gain a lot of motivation to code from a passionate hobby of game development, and a desire to succeed as a Software Engineer.
+My name is Edinson, I am a father, a veteran, and a Software Engineer.
 
 Interests: Coding, AI technologies, game development, robotics and electronics, family time, physics and space
 
 ## 🛠 Projects 🛠
-- 🗔 Gamified To-do Manager using Windows Presentation Foundation [GitHub Link](https://github.com/nosnid3-portfolio/ToDoManager)
-- 🎮 Endless Runner Shooting Game using the Godot game engine [GitHub Link](https://github.com/nosnid3-portfolio/NinjaTrainingGrounds)
+[GitHub Link](https://github.com/nosnid3-portfolio/)
 
 ## 🔋 Skills 🔋
 - **Languages**: Python · C# · SQL · VBA · HTML · CSS
